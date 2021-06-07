@@ -23,5 +23,5 @@ this repository contains online web design course using reactjs
      * Potatoes
      * Spinach
      * Onions
-[Google](https://www.google.com/)[google]
+[Google](https://www.google.com/)
 ![NARUTOJIRAYA](https://i.pinimg.com/564x/86/6f/16/866f16a16db8f756ef993f4aebd7c71e.jpg)
